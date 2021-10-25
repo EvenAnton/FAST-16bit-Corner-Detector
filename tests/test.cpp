@@ -3,7 +3,7 @@
 #include <string>
 #include <opencv2/opencv.hpp>
 
-#include "fast.hpp"
+#include "fast16bit/fast.hpp"
 
 int main(int, char**) {
 

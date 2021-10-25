@@ -1,4 +1,4 @@
-#include "fast.hpp"
+#include "fast16bit/fast.hpp"
 
 int fast_16bit_corner_detector::fast9_corner_score(const uint16_t* p, const int pixel[])
 {    

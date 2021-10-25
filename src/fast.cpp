@@ -1,4 +1,4 @@
-#include "fast.hpp"
+#include "fast16bit/fast.hpp"
 
 std::vector<cv::KeyPoint> fast_16bit_corner_detector::detect(const cv::Mat im)
 {

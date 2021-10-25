@@ -1,4 +1,4 @@
-#include "fast.hpp"
+#include "fast16bit/fast.hpp"
 
 #define Compare(X, Y) ((X)>=(Y))
 
